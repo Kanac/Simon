@@ -1,10 +1,7 @@
-/*Author: Anthony Chui
- *Student Number: 38352134
- *Date: Nov 25 2013
- *Email: AnthonyChui@Alumni.UBC.ca
- *Program: Simon 
+/*Program: Simon 
  *Purpose: Plays a game of Simon after initializing DAQ
  */
+
 #define _CRT_SECURE_NO_WARNINGS
 
 #define TRUE 1
